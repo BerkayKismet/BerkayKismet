@@ -65,7 +65,7 @@ Burada, projelerimde aktif olarak kullandığım ve tecrübe sahibi olduğum tek
 
 <!-- ⚠️ DİKKAT: Linklerdeki "#" veya placeholder kısımları kendi profil linklerinizle değiştirin -->
 <p align="center">
-  <a href="[https://linkedin.com/in/linkedin-kullanici-adiniz](https://www.linkedin.com/in/berkaykismet" target="_blank">
+  <a href="[https://linkedin.com/in/linkedin-berkaykismet] target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:ksmtberkay@gmail.com" target="_blank">
