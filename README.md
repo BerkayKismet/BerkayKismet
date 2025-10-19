@@ -1,9 +1,5 @@
 <h1 align="center">👋 Merhaba, ben Berkay Kısmet!</h1>
-<h3 align="center">Bir projenin A'dan Z'ye tüm sürecine hakim bir Yazılım Mühendisi 🚀</h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding..." width="400"/>
-</p>
+<h3 align="center">Bir projenin A'dan Z'ye tüm sürecine ilgi duyan bir Yazılım Mühendisi 🚀</h3>
 
 ---
 
@@ -12,10 +8,10 @@
 💡 Yeni mezun bir yazılım mühendisi olarak, bir projenin sadece kodlama aşamasıyla değil, fikir aşamasından son kullanıcıya ulaşana kadarki tüm yaşam döngüsüyle ilgileniyorum. Hedefim, temel becerilerimi sürekli geliştirerek işin bütününü gören ve kullanıcıya her platformda değer katan, yetkin bir mühendis olmaktır.
 
 Bu yolculukta edindiğim tecrübeler:
+-   **💻 Geliştirme:** Arayüz (Frontend) ve sunucu (Backend) tarafı geliştirmeleriyle tam kapsamlı uygulamalar oluşturma.
+-   **🗃️ Veritabanı:** İlişkisel veritabanlarını (PostgreSQL, MySQL) tasarlama ve SQL ile yönetme.
 -   **📝 Planlama ve Analiz:** Agile & Scrum metodolojileri ile gereksinim yönetimi ve UML diyagramları oluşturma.
 -   **📄 Dokümantasyon:** Projelerin teknik dokümantasyonunu ve API spesifikasyonlarını (Swagger) hazırlama.
--   **🗃️ Veritabanı:** İlişkisel veritabanlarını (PostgreSQL, MySQL) tasarlama ve SQL ile yönetme.
--   **💻 Geliştirme:** Arayüz (Frontend) ve sunucu (Backend) tarafı geliştirmeleriyle tam kapsamlı uygulamalar oluşturma.
 
 ---
 
@@ -63,26 +59,16 @@ Burada, projelerimde aktif olarak kullandığım ve tecrübe sahibi olduğum tek
 
 ---
 
-### 📊 GitHub İstatistiklerim
-
-<!-- ⚠️ DİKKAT: "kullanici-adiniz" yazan yeri kendi GitHub kullanıcı adınızla değiştirin -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kullanici-adiniz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kullanici-adiniz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ### 📫 Bana Ulaşın
 
 İş fırsatları, projeler veya sadece bir merhaba demek için aşağıdaki kanallardan bana ulaşabilirsiniz.
 
 <!-- ⚠️ DİKKAT: Linklerdeki "#" veya placeholder kısımları kendi profil linklerinizle değiştirin -->
 <p align="center">
-  <a href="https://linkedin.com/in/linkedin-kullanici-adiniz" target="_blank">
+  <a href="[https://linkedin.com/in/linkedin-kullanici-adiniz](https://www.linkedin.com/in/berkaykismet" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:mail-adresiniz@ornek.com" target="_blank">
+  <a href="mailto:ksmtberkay@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
